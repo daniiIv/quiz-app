@@ -14,7 +14,7 @@ The Quiz App is a dynamic platform designed for hosting fun and engaging quiz ga
 
 ## Key Features
 
-####For Organizers
+#### For Organizers
 **Game Creation:**
 - Generate a unique game code for participants to join.
 - Add custom questions and answers for each session.
@@ -26,7 +26,7 @@ The Quiz App is a dynamic platform designed for hosting fun and engaging quiz ga
 **Live Scoreboard:**
 - Display player rankings after each round.
 
-####For Players
+#### For Players
 **Easy Access:**
 - Join a quiz session using the unique game code—no registration required.
 - Choose a nickname to participate.
