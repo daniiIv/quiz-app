@@ -54,7 +54,7 @@ The Quiz App is a dynamic platform designed for hosting fun and engaging quiz ga
       Redis (optional):
       Used for caching real-time game states, ensuring low-latency updates.
 
-##Game Flow
+## Game Flow
 
 **User Entering Diagram**
 ![user-entering-diagram](https://github.com/user-attachments/assets/0bf3f3f1-3c9e-45e1-94ec-a5adaf73b240)
