@@ -56,6 +56,11 @@ The Quiz App is a dynamic platform designed for hosting fun and engaging quiz ga
 
 ## Game Flow
 
+**Database Diagram**
+
+![database](https://github.com/user-attachments/assets/5e01da3a-6c47-4d93-b60f-8df8165d7dfa)
+
 **User Entering Diagram**
+
 ![user-entering-diagram](https://github.com/user-attachments/assets/0bf3f3f1-3c9e-45e1-94ec-a5adaf73b240)
 
