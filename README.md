@@ -40,14 +40,18 @@ The Quiz App is a dynamic platform designed for hosting fun and engaging quiz ga
 
 ## Architecture
 
+![architecture-diagram](https://github.com/user-attachments/assets/66e2d1ea-2b9d-4ed4-ac08-4c877072cb76)
+
 **Frontend**
   - Built using React.js (web) or Flutter (mobile).
   - Provides an intuitive and responsive user interface for both organizers and players.
   - Uses WebSocket connections for real-time updates on questions, answers, and scores.
+
 **Backend**
   - Developed in Go for high performance and scalability.
   - Handles game logic, WebSocket communication, and API endpoints.
   - Interfaces with the database to manage game sessions, questions, players, and scores.
+
 **Database**
   - PostgreSQL:
       Stores structured data for games, players, questions, and answers.
